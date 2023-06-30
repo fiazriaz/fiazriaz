@@ -1,4 +1,4 @@
-- 👋 Hi, My name is M Fiaz Riaz. You can call me Fiaz.
+- 👋 Hi, My name is M Fiaz Riaz. You can call me Fiaz
 - 👀 I’m interested in Applied Data Science, Machine Learning, Deep Learning and MLOps 
 - 🌱 I’m currently learning LLMs, MLOps, Tensorflow and AutoML
 - 💞️ I’m looking to collaborate on MLOps
